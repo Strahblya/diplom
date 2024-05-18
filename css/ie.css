@@ -1,0 +1,7 @@
+nav, .inner,  #first-li, #last-li, #slide, .block h2, .button, .button-1, figure{behavior:url(js/PIE.htc); position:relative;}
+.sf-menu>li>ul, .sf-menu li li ul{behavior:url(js/PIE.htc); }
+#form1 input, #form1 textarea, .div-search{behavior:url(js/PIE.htc); position:relative;}
+
+a.gal:hover img {
+		filter:progid:DXImageTransform.Microsoft.Alpha(opacity=30);
+;
